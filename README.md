@@ -60,6 +60,6 @@
         <img src="https://github-readme-stats.vercel.app/api?username=Mangofang&show_icons=true&theme=radical" alt="GLutton's wakatime stars" width="466" height="193">
     </a>
     <a href="https://wakatime.com/@Mangofang">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mangofang&layout=compact" alt="GLutton's wakatime stats" width="166" height="193">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mangofang&layout=compact" alt="GLutton's wakatime stats" width="466" height="193">
     </a>
 </p>
