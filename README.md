@@ -55,8 +55,11 @@
 
 ### Github Statistics<img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" />
 
-<div align="center">
-    <span>&emsp;&emsp;</span>
-    <img height="175px" src="https://github-readme-stats.vercel.app/api?username=Mangofang&count_private=true&show_icons=true" />
-    <span>&emsp;&emsp;</span>
-</div>
+<p align="">
+    <a href="https://wakatime.com/@Mangofang">
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Mangofang&layout=compact" alt="GLutton's wakatime stars">
+    </a>
+    <a href="https://wakatime.com/@Mangofang">
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Mangofang&layout=compact" alt="GLutton's wakatime stats">
+    </a>
+</p>
