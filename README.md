@@ -3,6 +3,9 @@
 
 [![This is me](https://readme-typing-svg.herokuapp.com?size=23&color=15485F&center=true&vCenter=true&width=1400&lines=%E4%BB%80%E4%B9%88%E6%98%AF%E5%AD%A4%E7%8B%AC%EF%BC%9F%E2%80%94%E2%80%94%E5%BF%83%E9%87%8C%E6%98%8E%E6%98%8E%E7%A9%BA%E8%8D%A1%E8%8D%A1%E7%9A%84%EF%BC%8C%E5%8D%B4%E4%BB%80%E4%B9%88%E4%B9%9F%E8%A3%85%E4%B8%8D%E4%B8%8B%E3%80%82)](https://git.io/typing-svg)
 
+### Visitor
+![](https://moe-counter.glitch.me/get/@:Mangofang?theme=moebooru-h)
+
 ### Skills and Tools<img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" />
 
 <div align="center">
