@@ -56,6 +56,4 @@
     <span>&emsp;&emsp;</span>
     <img height="175px" src="https://github-readme-stats.vercel.app/api?username=Mangofang&count_private=true&show_icons=true" />
     <span>&emsp;&emsp;</span>
-    <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mangofang&layout=compact&langs_count=8" />
-    <span>&emsp;&emsp;</span>
 </div>
