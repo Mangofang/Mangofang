@@ -13,7 +13,7 @@
 - 📫 Reach me: [email](1284641389@qq.com)
 - 👏 Follow Me: [![](https://img.shields.io/github/followers/Mangofang?label=follow%20me&style=social)](https://github.com/Mangofang/)
 
-**「Stay hungry，Stay foolish.」** ❤️
+**「a ba ababa.」** ❤️
 
 #### 🐍 contributions
 ![](https://raw.githubusercontent.com/anzhihe/anzhihe/output/github-contribution-grid-snake.svg)
